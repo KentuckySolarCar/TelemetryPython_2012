@@ -1,6 +1,8 @@
 from time import sleep, ctime, time
 
-
+#this code is poorly written, and no one should use
+#it for anything
+#John is a mad individual.
 ###################################################
 # 
 ###################################################
